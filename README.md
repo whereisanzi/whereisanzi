@@ -11,7 +11,12 @@ I'm a Software Engineer passionate about technologies, software engineering, bus
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=anzileiro&show_icons=true)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<center>
+<table>
+  <tr>
+      <td><img width="410px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anzileiro&hide=html&layout=compact" /></td>
+      <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=anzileiro&hide=html&layout=compact" /></td>
+  </tr>   
+</table>
+</center>
 
