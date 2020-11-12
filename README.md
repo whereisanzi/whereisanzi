@@ -3,9 +3,9 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
-I'm a Software Engineer passionate about technologies, software engineering, business strategies and entrepreneurship. I have been working with tech companies since 2012. With great projects did and most of the time working as backend. My main qualities are resilience, humility, companionship, professionalism and organization.
+I'm a Software Engineer passionate about technology, agile and product engineering. I have been working with tech companies since 2012. With great products developed and most of the time working as a Software Engineer. My main qualities are resilience, humility, companionship, professionalism, organization and dedication. In my free time I like to read books and articles, watch lectures and listen to music.
 
--  **Languages :** Elixir, Go and JavaScript :computer:
+-  **Languages :** Java, C#, Elixir, JavaScript and TypeScript :computer:
 -  **Hobbies :** Articles, Books & Music :headphones:
 -  **Fact :** First solve the problem, then write the code and always stay hungry for knowledge :heart: 
 
