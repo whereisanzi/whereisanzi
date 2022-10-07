@@ -3,7 +3,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
-I'm a Software Engineer passionate about technology, agile and product engineering. I have been working with tech companies since 2012. With great products developed and most of the time working as a Software Engineer. My main qualities are resilience, humility, companionship, professionalism, organization and dedication. In my free time I like to read books and articles, watch lectures and listen to music.
+I :heart: technology, agile and product engineering. I have been working with tech companies since 2010. With great products delivered and most of the time working as a Senior Software Engineer and also as a Tech Lead. My main qualities are resilience, humility, companionship, professionalism, organization and dedication.
 
 -  **Languages :** Java, C#, Elixir, JavaScript and TypeScript :computer:
 -  **Hobbies :** Articles, Books & Music :headphones:
