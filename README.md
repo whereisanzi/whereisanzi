@@ -9,14 +9,3 @@ I :heart: technology, agile and product engineering. I have been working with te
 -  **Hobbies :** Articles, Books & Music :headphones:
 -  **Fact :** First solve the problem, then write the code and always stay hungry for knowledge :heart: 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<center>
-<table>
-  <tr>
-      <td><img width="410px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anzileiro&hide=html&layout=compact" /></td>
-      <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=anzileiro&hide=html&layout=compact" /></td>
-  </tr>   
-</table>
-</center>
-
