@@ -3,9 +3,9 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
-I :heart: technology, agile and product engineering. I have been working with tech companies since 2010. With great products delivered and most of the time working as a Senior Software Engineer and also as a Tech Lead. My main qualities are resilience, humility, companionship, professionalism, organization and dedication.
+I love technology, agile and product engineering. I have been working with tech companies since 2010. With great products delivered and most of the time working as a Senior Software Engineer and also as a Tech Lead. My main qualities are resilience, humility, companionship, professionalism, organization and dedication.
 
--  **Languages :** Java, C#, Elixir, JavaScript and TypeScript :computer:
--  **Hobbies :** Articles, Books & Music :headphones:
--  **Fact :** First solve the problem, then write the code and always stay hungry for knowledge :heart: 
+-  **Languages :** Java, C#, Elixir, JavaScript and TypeScript
+-  **Hobbies :** Articles, Books & Music
+-  **Fact :** First solve the problem, then write the code and always stay hungry for knowledge
 
