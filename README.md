@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-I'm **Anderson Anzileiro**, but most people just call me **Anzi**. I'm a **Senior Software Engineer** with over **10 years of experience** building scalable, high-performance systems in fintech, e-commerce, and SaaS companies.
+I'm **Anderson Anzileiro**, but most people just call me **Anzi**. I'm a **Software Engineer** with over **10 years of experience** building scalable, high-performance systems in fintech, e-commerce, and SaaS companies.
 
 I specialize in **TypeScript, Node.js, distributed systems, and AWS**, with strong expertise in software architecture, system design, and leading engineering initiatives.
 
@@ -29,6 +29,6 @@ I am passionate about solving complex problems with clean, simple, and maintaina
 
 ## 🤝 Contact
 
-- **LinkedIn:** [linkedin.com/in/anzileiro](https://www.linkedin.com/in/anzileiro)  
+- **LinkedIn:** [linkedin.com/in/whereisanzi](https://www.linkedin.com/in/whereisanzi)  
 
 > *“First solve the problem, then write the code.” – Always hungry for knowledge.*
