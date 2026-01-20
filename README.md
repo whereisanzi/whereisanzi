@@ -29,6 +29,6 @@ I am passionate about solving complex problems with clean, simple, and maintaina
 
 ## 🤝 Contact
 
-- **LinkedIn:** [linkedin.com/in/whereisanzi](https://www.linkedin.com/in/whereisanzi)  
+- **LinkedIn:** [linkedin.com/in/anderson-anzileiro](https://www.linkedin.com/in/anderson-anzileiro)  
 
 > *“First solve the problem, then write the code.” – Always hungry for knowledge.*
