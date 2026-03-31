@@ -13,9 +13,16 @@ Currently leading AI-enhanced RPA solutions at **Banco Carrefour**. Previously b
 
 AI & GenAI platforms (RAG, LLM, AI Agents) / Microservices & distributed systems / Observability & reliability / Technical leadership
 
-### Where I've been
+### Experience
 
-**Banco Carrefour** Solutions Architect &rarr; **Stone** Staff Engineer &rarr; **Nubank** Senior Engineer &rarr; **E-Fluxus** Head of Engineering &rarr; **Instacarro** Tech Lead &rarr; **Remessa Online** Senior Engineer
+| Company | Role |
+|---------|------|
+| **Banco Carrefour** | Solutions Architect |
+| **Stone** | Staff Software Engineer |
+| **Nubank** | Senior Software Engineer |
+| **E-Fluxus** | Head of Engineering |
+| **Instacarro** | Tech Lead |
+| **Remessa Online** | Senior Software Engineer |
 
 ### Get in touch
 
