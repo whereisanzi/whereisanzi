@@ -13,17 +13,6 @@ Currently leading AI-enhanced RPA solutions at **Banco Carrefour**. Previously b
 
 AI & GenAI platforms (RAG, LLM, AI Agents) / Microservices & distributed systems / Observability & reliability / Technical leadership
 
-### Experience
-
-| Company | Role |
-|---------|------|
-| **Banco Carrefour** | Solutions Architect |
-| **Stone** | Staff Software Engineer |
-| **Nubank** | Senior Software Engineer |
-| **E-Fluxus** | Head of Engineering |
-| **Instacarro** | Tech Lead |
-| **Remessa Online** | Senior Software Engineer |
-
 ### Get in touch
 
 [LinkedIn](https://www.linkedin.com/in/anderson-anzileiro)
