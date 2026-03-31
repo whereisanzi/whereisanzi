@@ -1,34 +1,22 @@
-## 👋 About Me
+## Anderson Anzileiro
 
-I'm **Anderson Anzileiro**, but most people just call me **Anzi**. I'm a **Software Engineer** with over **10 years of experience** building scalable, high-performance systems in fintech, e-commerce, and SaaS companies.
+Solutions Architect building AI-enhanced platforms at scale. 10+ years shipping backend systems across fintech, e-commerce, and SaaS.
 
-I specialize in **TypeScript, Node.js, distributed systems, and AWS**, with strong expertise in software architecture, system design, and leading engineering initiatives.
+Currently at **Banco Carrefour** leading RPA maturity with LLMs and AI Agents. Previously built RAG ecosystems at **Stone** and high-scale insurance systems at **Nubank**.
 
-Throughout my career, I've worked at companies like **Nubank**, **Remessa Online**, **Instacarro**, and **E-Fluxus**, leading critical migrations, driving infrastructure cost reductions, and delivering solutions that directly impact the business.
+### What I'm working on
 
-I am passionate about solving complex problems with clean, simple, and maintainable software. My goal is to bridge technology with business needs, always focusing on delivering real value.
+- [**Maracatu**](https://github.com/whereisanzi/maracatu) — Civic tech platform using conversational AI to make Brazilian public spending transparent. LangGraph + FastAPI + Next.js.
+- [**TAG**](https://github.com/whereisanzi/tag) — An opinionated Python architecture pattern combining DDD, hexagonal design, and functional programming for consistent microservices.
 
+### What I care about
 
-## 🚀 Tech Stack
+AI platforms (RAG, LLM, AI Agents) / Software architecture / Distributed systems / Observability / Building things that matter
 
-- **Languages:** TypeScript, Node.js, Python, Clojure, C#, Java  
-- **Backend:** Distributed Systems, Event-Driven Architecture, REST, gRPC, Microservices, Serverless  
-- **Frontend (when needed):** React, Next.js  
-- **Databases:** PostgreSQL, MySQL, SQL Server, MongoDB, DynamoDB, RethinkDB  
-- **Messaging:** Kafka, RabbitMQ, Redis Pub/Sub, AWS SNS/SQS, ActiveMQ  
-- **Cloud & DevOps:** AWS (S3, Lambda, CloudWatch, CloudFormation), Docker, GitHub Actions, CI/CD Pipelines  
-- **Architecture:** Hexagonal Architecture (Ports and Adapters), Clean Code, Domain-Driven Design (DDD), SOLID Principles  
+### Where I've been
 
-## 🧠 Core Values
+**Banco Carrefour** Solutions Architect &rarr; **Stone** Staff Engineer &rarr; **Nubank** Senior Engineer &rarr; **E-Fluxus** Head of Engineering &rarr; **Instacarro** Tech Lead &rarr; **Remessa Online** Senior Engineer
 
-- Build for impact, not for vanity.  
-- Simple is better than complex.  
-- First solve the problem, then write the code.  
-- Be humble, stay curious, and never stop learning.  
-- Share knowledge and help others grow.  
+### Get in touch
 
-## 🤝 Contact
-
-- **LinkedIn:** [linkedin.com/in/anderson-anzileiro](https://www.linkedin.com/in/anderson-anzileiro)  
-
-> *“First solve the problem, then write the code.” – Always hungry for knowledge.*
+[LinkedIn](https://www.linkedin.com/in/anderson-anzileiro)
