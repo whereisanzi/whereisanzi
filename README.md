@@ -6,8 +6,7 @@ Currently leading AI-enhanced RPA solutions at **Banco Carrefour**. Previously b
 
 ### What I'm building
 
-- [**Maracatu**](https://maracatu.ai) — Civic tech platform using conversational AI to make Brazilian public spending transparent. LangGraph + FastAPI + Next.js.
-- [**TAG**](https://github.com/whereisanzi/tag) — An opinionated Python architecture pattern combining DDD, hexagonal design, and functional programming for consistent microservices.
+- [**Maracatu**](https://github.com/whereisanzi/maracatu) — A Brazilian Portuguese language model trained from scratch. Decoder-only transformer in PyTorch, nanoGPT-style, with a PT-BR BPE tokenizer. Apache 2.0.
 
 ### What I specialize in
 
