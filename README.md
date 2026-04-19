@@ -6,7 +6,9 @@ Currently leading AI-enhanced RPA solutions at **Banco Carrefour**. Previously b
 
 ### What I'm building
 
-- [**Maracatu**](https://github.com/maracatu-ai) — A Brazilian Portuguese language model trained from scratch. Decoder-only transformer in PyTorch, nanoGPT-style, with a PT-BR BPE tokenizer. Apache 2.0.
+- [**Maracatu AI**](https://github.com/maracatu-ai) — an independent Brazilian research lab focused on open-source language models trained from scratch in Portuguese, for AI sovereignty.
+  - [**Maracatu**](https://github.com/maracatu-ai/maracatu) — flagship LLM. Llama-style decoder-only transformer in PyTorch (RMSNorm, RoPE, SwiGLU), trained on Brazilian Portuguese. Apache 2.0.
+  - [**Calunga**](https://github.com/maracatu-ai/calunga) — companion RAG for Brazilian public spending transparency.
 
 ### What I specialize in
 
