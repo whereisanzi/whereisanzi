@@ -6,7 +6,7 @@ Currently leading AI-enhanced RPA solutions at **Banco Carrefour**. Previously b
 
 ### What I'm building
 
-- [**Maracatu**](https://github.com/whereisanzi/maracatu) — A Brazilian Portuguese language model trained from scratch. Decoder-only transformer in PyTorch, nanoGPT-style, with a PT-BR BPE tokenizer. Apache 2.0.
+- [**Maracatu**](https://github.com/maracatu-ai) — A Brazilian Portuguese language model trained from scratch. Decoder-only transformer in PyTorch, nanoGPT-style, with a PT-BR BPE tokenizer. Apache 2.0.
 
 ### What I specialize in
 
