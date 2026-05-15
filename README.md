@@ -1,19 +1,35 @@
-## Anderson Anzileiro
+# Anderson Anzileiro
 
-Staff Engineer & Solutions Architect specializing in AI platforms, GenAI, and high-reliability backend systems. 10+ years building scalable systems across fintech, e-commerce, and SaaS.
+**Senior / Staff Software Engineer · Backend · Fintech & Distributed Systems**
 
-Currently leading AI-enhanced RPA solutions at **Banco Carrefour**. Previously built RAG ecosystems and GenAI platform practices at **Stone**, and shipped high-scale insurance systems at **Nubank** impacting millions of users.
+I build backend systems for fintech, payments, and regulated platforms. Occasionally with LLMs in them — but the craft is the systems.
 
-### What I'm building
+10+ years across **Nubank** (Clojure backend powering 3M+ insurance policies), **Stone** (authored *The Gateways* — a Python platform pattern), **Remessa Online** (international AML/compliance engine), **PayParty** (70k req/min payments infra), **Instacarro** (reduced production incidents from ~30/day to zero), and currently **Banco Carrefour**, where I lead the modernization of the bank's AML platform (PLD-FTP) as a reputational data broker shared across Credit, Lending, Account, Anticipation, and Payments.
 
-- [**Maracatu AI**](https://github.com/maracatu-ai) — an independent Brazilian research lab focused on open-source language models trained from scratch in Portuguese, for AI sovereignty.
-  - [**Maracatu**](https://github.com/maracatu-ai/maracatu) — flagship LLM. Llama-style decoder-only transformer in PyTorch (RMSNorm, RoPE, SwiGLU), trained on Brazilian Portuguese. Apache 2.0.
-  - [**Calunga**](https://github.com/maracatu-ai/calunga) — companion RAG for Brazilian public spending transparency.
+## What I'm building
 
-### What I specialize in
+### Architecture & backend
+- **[tag](https://github.com/whereisanzi/tag)** — *The Architecture of Gateways*. Opinionated Python platform pattern combining DDD, hexagonal architecture, and functional programming.
 
-AI & GenAI platforms (RAG, LLM, AI Agents) / Microservices & distributed systems / Observability & reliability / Technical leadership
+### Systems & performance
+- **[catraca](https://github.com/maracatu-labs/catraca)** — Minimalist HTTP load balancer in Rust.
 
-### Get in touch
+### LLMs & applied ML
+- **[maracatu](https://github.com/maracatu-labs/maracatu)** — Open foundation model for Brazilian Portuguese. Llama-style decoder-only transformer trained from scratch.
+- **[calunga](https://github.com/maracatu-labs/calunga)** — Civic-tech platform for Brazilian public-spending transparency. Natural-language queries against official sources, with anomaly detection on suspicious patterns.
 
-[LinkedIn](https://www.linkedin.com/in/anderson-anzileiro)
+## What I specialize in
+
+- **Backend engineering & distributed systems** — Python, TypeScript, Node.js, AWS
+- **Fintech & RegTech** — payments, insurance, AML/compliance, regulated platforms
+- **Microservices, event-driven architecture, observability, reliability** — for services that handle real traffic, instrument well, and recover gracefully in production
+- **Platform engineering** — architecture standards, internal SDKs, engineering practices
+- **AI-fluent** — LLM, RAG, AI agents in production when the problem earns it
+
+## Currently
+
+Open to **Senior or Staff Software Engineer** roles in backend, distributed systems, and fintech. Brazil-remote or LATAM-remote. EN/PT fluent.
+
+## Get in touch
+
+[LinkedIn](https://linkedin.com/in/whereisanzi) · [X](https://x.com/whereisanzi) · [Hugging Face](https://huggingface.co/whereisanzi) · [Kaggle](https://kaggle.com/whereisanzi)
