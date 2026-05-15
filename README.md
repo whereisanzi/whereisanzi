@@ -4,7 +4,7 @@
 
 I build backend systems for fintech, payments, and regulated platforms. Occasionally with LLMs in them — but the craft is the systems.
 
-10+ years across **Nubank** (Clojure backend powering 3M+ insurance policies), **Stone** (authored *The Gateways* — a Python platform pattern), **Remessa Online** (international AML/compliance engine), **PayParty** (70k req/min payments infra), **Instacarro** (reduced production incidents from ~30/day to zero), and currently **Banco Carrefour**, where I lead the modernization of the bank's AML platform (PLD-FTP) as a reputational data broker shared across Credit, Lending, Account, Anticipation, and Payments.
+10+ years across **Nubank** (3M+ insurance policies in Clojure), **Stone** (*The Gateways* Python pattern), **Remessa Online** (international AML engine), **PayParty** (70k req/min payments), and **Instacarro** (incidents ~30/day → 0). Now at **Banco Carrefour**, modernizing the bank's AML platform (PLD-FTP).
 
 ## What I'm building
 
@@ -20,11 +20,11 @@ I build backend systems for fintech, payments, and regulated platforms. Occasion
 
 ## What I specialize in
 
-- **Backend engineering & distributed systems** — Python, TypeScript, Node.js, AWS
-- **Fintech & RegTech** — payments, insurance, AML/compliance, regulated platforms
-- **Microservices, event-driven architecture, observability, reliability** — for services that handle real traffic, instrument well, and recover gracefully in production
+- **Backend & distributed systems** — Python, TypeScript, Node.js, AWS
+- **Fintech & RegTech** — payments, insurance, AML/compliance
+- **Microservices, event-driven, observability, reliability** — production scale, instrumentation, graceful recovery
 - **Platform engineering** — architecture standards, internal SDKs, engineering practices
-- **AI-fluent** — LLM, RAG, AI agents in production when the problem earns it
+- **AI-fluent** — LLM, RAG, AI agents when the problem earns it
 
 ## Currently
 
