@@ -4,8 +4,6 @@
 
 I build backend systems for fintech, payments, and regulated platforms. Occasionally with LLMs in them — but the craft is the systems.
 
-10+ years across **Nubank** (3M+ insurance policies in Clojure), **Stone** (*The Gateways* Python pattern), **Remessa Online** (international AML engine), **PayParty** (70k req/min payments), and **Instacarro** (incidents ~30/day → 0). Now at **Banco Carrefour**, modernizing the bank's AML platform (PLD-FTP).
-
 ## What I'm building
 
 ### Architecture & backend
