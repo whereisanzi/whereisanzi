@@ -10,11 +10,11 @@ I build backend systems for fintech, payments, and regulated platforms. Occasion
 - **[tag](https://github.com/whereisanzi/tag)** — *The Architecture of Gateways*. Opinionated Python platform pattern combining DDD, hexagonal architecture, and functional programming.
 
 ### Systems & performance
-- **[catraca](https://github.com/maracatu-labs/catraca)** — Minimalist HTTP load balancer in Rust.
+- **[catraca](https://github.com/maracatu-org/catraca)** — Minimalist HTTP load balancer in Rust.
 
 ### LLMs & applied ML
-- **[maracatu](https://github.com/maracatu-labs/maracatu)** — Open foundation model for Brazilian Portuguese. Llama-style decoder-only transformer trained from scratch.
-- **[calunga](https://github.com/maracatu-labs/calunga)** — Civic-tech platform for Brazilian public-spending transparency. Natural-language queries against official sources, with anomaly detection on suspicious patterns.
+- **[maracatu](https://github.com/maracatu-org/maracatu)** — Open foundation model for Brazilian Portuguese. Llama-style decoder-only transformer trained from scratch.
+- **[calunga](https://github.com/maracatu-org/calunga)** — Civic-tech platform for Brazilian public-spending transparency. Natural-language queries against official sources, with anomaly detection on suspicious patterns.
 
 ## What I specialize in
 
