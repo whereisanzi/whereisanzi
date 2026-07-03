@@ -6,7 +6,7 @@ I build backend systems for fintech, payments, and regulated platforms. Occasion
 
 ## What I'm building
 
-Founder of **[Maracatu](https://maracatu.org)** ([github.com/maracatu-org](https://github.com/maracatu-org)), an independent Brazilian civic-tech product that uses AI to make public spending accessible to any citizen: ask in plain Portuguese, get answers grounded in official sources. I build it end to end, from the foundation models to the platform. Some pieces are open (the models and the systems tooling below); the platform itself is a live product.
+I build **[Maracatu](https://maracatu.org)** ([github.com/maracatu-org](https://github.com/maracatu-org)), a personal civic-tech project that uses AI to make Brazilian public spending accessible to any citizen: ask in plain Portuguese, get answers grounded in official sources. It started from my curiosity about LLMs and public data, and I keep building it to learn. Some pieces are open (the models and the systems tooling below); the platform itself is a live product.
 
 ### LLMs & open weights
 - **[maracatu-llm](https://github.com/maracatu-org/maracatu-llm)**, Open-weight Brazilian-Portuguese foundation models trained from scratch (Maracatu-20M / 80M). Llama-style decoder-only transformers; open weights on [Hugging Face](https://huggingface.co/maracatu-labs) and Ollama. Apache 2.0.
