@@ -2,27 +2,28 @@
 
 **Senior / Staff Software Engineer · Backend · Fintech & Distributed Systems**
 
-I build backend systems for fintech, payments, and regulated platforms. Occasionally with LLMs in them — but the craft is the systems.
+I build backend systems for fintech, payments, and regulated platforms. Occasionally with LLMs in them, but the craft is the systems.
 
 ## What I'm building
 
-### Architecture & backend
-- **[tag](https://github.com/whereisanzi/tag)** — *The Architecture of Gateways*. Opinionated Python platform pattern combining DDD, hexagonal architecture, and functional programming.
+Founder of **[Maracatu](https://maracatu.org)** ([github.com/maracatu-org](https://github.com/maracatu-org)), an independent Brazilian civic-tech product that uses AI to make public spending accessible to any citizen: ask in plain Portuguese, get answers grounded in official sources. I build it end to end, from the foundation models to the platform. Some pieces are open (the models and the systems tooling below); the platform itself is a live product.
+
+### LLMs & open weights
+- **[maracatu-llm](https://github.com/maracatu-org/maracatu-llm)**, Open-weight Brazilian-Portuguese foundation models trained from scratch (Maracatu-20M / 80M). Llama-style decoder-only transformers; open weights on [Hugging Face](https://huggingface.co/maracatu-labs) and Ollama. Apache 2.0.
 
 ### Systems & performance
-- **[catraca](https://github.com/maracatu-org/catraca)** — Minimalist HTTP load balancer in Rust.
+- **[catraca](https://github.com/maracatu-org/catraca)**, Single-host L4 TCP connection dispatcher in Rust (MIT). `io_uring` multishot accept + `SCM_RIGHTS` zero-copy fd hand-off. ~300 lines, no async runtime.
 
-### LLMs & applied ML
-- **[maracatu](https://github.com/maracatu-org/maracatu)** — Open foundation model for Brazilian Portuguese. Llama-style decoder-only transformer trained from scratch.
-- **[calunga](https://github.com/maracatu-org/calunga)** — Civic-tech platform for Brazilian public-spending transparency. Natural-language queries against official sources, with anomaly detection on suspicious patterns.
+### Architecture & backend
+- **[tag](https://github.com/whereisanzi/tag)**, *The Architecture of Gateways*. Opinionated Python platform pattern combining DDD, hexagonal architecture, and functional programming (MIT).
 
 ## What I specialize in
 
-- **Backend & distributed systems** — Python, TypeScript, Node.js, AWS
-- **Fintech & RegTech** — payments, insurance, AML/compliance
-- **Microservices, event-driven, observability, reliability** — production scale, instrumentation, graceful recovery
-- **Platform engineering** — architecture standards, internal SDKs, engineering practices
-- **AI-fluent** — LLM, RAG, AI agents when the problem earns it
+- **Backend & distributed systems**, Python, TypeScript, Node.js, AWS
+- **Fintech & RegTech**, payments, AML/compliance, regulated platforms
+- **Microservices, event-driven, observability, reliability**, production scale, instrumentation, graceful recovery
+- **Platform engineering**, architecture standards, internal SDKs, engineering practices
+- **AI-fluent**, LLM, RAG, AI agents when the problem earns it
 
 ## Currently
 
